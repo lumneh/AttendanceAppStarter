@@ -56,7 +56,8 @@ public class AttendanceController {
     
     private void addSwipe() {
         System.out.format("\033[31m%s\033[0m%n", "Add Swipe");
-        System.out.format("\033[31m%s\033[0m%n", "=========");       
+        System.out.format("\033[31m%s\033[0m%n", "=========");  
+        System.out.format("\033[31m%s\033[0m%n", "========="); 
     }
     
     private void listSwipes() {        
