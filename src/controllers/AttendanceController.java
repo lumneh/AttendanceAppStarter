@@ -62,7 +62,8 @@ public class AttendanceController {
     
     private void listSwipes() {        
         System.out.format("\033[31m%s\033[0m%n", "Swipes");
-        System.out.format("\033[31m%s\033[0m%n", "======");          
+        System.out.format("\033[31m%s\033[0m%n", "======"); 
+        System.out.format("\033[31m%s\033[0m%n", "=========");
     }      
       
 
